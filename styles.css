@@ -1,0 +1,30 @@
+input[type="text"]{
+    width: 20%;
+}
+
+form {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+#result {
+    margin-left: 20px;
+}
+
+/* Mobile adjustments */
+@media (max-width: 992px) { 
+
+    label {
+        font-size: xx-large;
+    }
+    input[type="text"]{
+        height: 60px;
+        width: 95%;
+    }
+
+    button{
+       height: 60px;
+       width: auto;
+       font-size: 25px !important;
+    }
+}
