@@ -1,5 +1,5 @@
 input[type="text"]{
-    width: 20%;
+    width: 400px;
 }
 
 form {
@@ -7,7 +7,7 @@ form {
     margin-top: 20px;
 }
 
-#result {
+#resultContainer {
     margin-left: 20px;
 }
 
